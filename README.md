@@ -1,6 +1,6 @@
 # python-excel-report
 
-![[docs/banner.png]]
+![python-excel-report](./docs/banner.png)
 
 A command-line tool that merges multiple CSV or Excel files and generates a professional, multi-sheet Excel report with embedded charts and styled tables.
 
